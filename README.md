@@ -12,5 +12,5 @@ Testing web applications doesn't have to be painful. Join us for this workshop t
 
 * [Intro](https://youtu.be/LF8yQ5stVUA)
 * [Learning Objective 1](https://youtu.be/SbvQpy3FTmw)
-* [Learning Objective 2](): coming soon
-* [Learning Objective 3](): coming soon
+* [Learning Objective 2](https://youtu.be/hVaeqOF5ny0)
+* [Learning Objective 3](https://youtu.be/uCjRrkujIZA)
